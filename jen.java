@@ -6,6 +6,7 @@ stage {
      git main:https//github.com/Sanjith77/kins
    }
   }
+ }
 }
 stage('build')
 {
