@@ -1,7 +1,7 @@
 pipeline {
 agent any
 stage {
-       stage('complicated'){
+       stage('checkout'){
       step{
      git main:https//github.com/Sanjith77/kins
    }
