@@ -3,10 +3,9 @@ agent any
 stage {
        stage('complicated'){
       step{
-     git main:https://github.com/Sanjith77/kins'
+     git main:https//github.com/Sanjith77/kins
    }
   }
-}
 }
 stage('build')
 {
